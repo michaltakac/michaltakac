@@ -7,11 +7,17 @@ I'm a software engineer from Košice, Slovakia. I enjoy building stuff.
 
 ### What I'm up to currently
 
-I'm working towards my PhD under supervision of [Prof. Ivo Petráš, DrSc.](http://people.tuke.sk/ivo.petras/) at [Faculty of Mining, Ecology, Process Control and Geotechnologies](https://www.tuke.sk/wps/portal/tuke/faculties/fberg/), [Technical University of Košice](https://www.tuke.sk/wps/portal/tuke). At the [Institute of Control and Informatization of Production Processes](http://web.tuke.sk/uraivp/en/), I teach JavaScript programming in two courses, one for undergrads and another for graduate students. Additionally to that, I also teach Java and some presentation skills there.
+In 2021 I've founded [DimensionLab](https://dimensionlab.org), where we're working on next-generation engineering and scientific software. Beside that I'm coding random crypto projects for fun!
 
 ### Past experiences
 
-Recently I was Visiting Student at [UC Berkeley](https://www.berkeley.edu/) at [Institute of Transportation Studies](https://its.berkeley.edu/). Had to return earlier because of Covid-19. 😢
+In 2021, I successfully defended my PhD dissertation "Design and Implementation of Modern Methods for Modeling and Control of Technological Objects and Processes" under supervision of [Prof. Ivo Petráš, DrSc.](http://people.tuke.sk/ivo.petras/) at [Faculty of Mining, Ecology, Process Control and Geotechnologies](https://www.tuke.sk/wps/portal/tuke/faculties/fberg/), [Technical University of Košice](https://www.tuke.sk/wps/portal/tuke).
+
+In 2020, I was Visiting Student at [UC Berkeley](https://www.berkeley.edu/) at [Institute of Transportation Studies](https://its.berkeley.edu/).
+
+During my PhD, I tought JavaScript programming in two courses, one for undergrads and another for graduate students. Additionally to that, I also tought Java and a presentation skills course there.
+
+Before that...
 
 - I did WebVR at [Decentraland](),
 - helped build apps for startups at [Sleighdogs](), 
