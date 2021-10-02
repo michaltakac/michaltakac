@@ -24,7 +24,7 @@ Before that...
 - founded skateboarding scoring platform [SkateRank](https://skaterank.com/), 
 - opened a small hackerspace called QuestSpace which is currently closed and will be transitioned into more scientific, upgraded version of hackerspace, 
 - co-founded a startup for house 3D printing Instant House Construction which we decided to abandon, 
-- did a small gig at Veterinary University of Košice developing maintenance management software,
+- did a small gig at [Veterinary University of Košice](https://www.uvlf.sk/en) developing maintenance management software,
 - founded tracking software Runelytics for an online game Runescape, 
 - done some Wordpress stuff for nearly 2 years at HP Publishing s.r.o. who published Boardmag and Dirtbiker magazines in Czech republic and Slovakia,
 - and beside that worked on various small projects.
