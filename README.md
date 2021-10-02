@@ -19,10 +19,10 @@ During my PhD, I tought JavaScript programming in two courses, one for undergrad
 
 Before that...
 
-- I did WebVR at [Decentraland](),
-- helped build apps for startups at [Sleighdogs](), 
-- founded skateboarding scoring platform [SkateRank](), 
-- founded a small hackerspace QuestSpace which is currently closed, 
+- I did WebVR at [Decentraland](https://decentraland.org/),
+- helped build apps for startups at [Sleighdogs](https://sld.gs/), 
+- founded skateboarding scoring platform [SkateRank](https://skaterank.com/), 
+- opened a small hackerspace called QuestSpace which is currently closed and will be transitioned into more scientific, upgraded version of hackerspace, 
 - co-founded a startup for house 3D printing Instant House Construction which we decided to abandon, 
 - did a small gig at Veterinary University of Košice developing maintenance management software,
 - founded tracking software Runelytics for an online game Runescape, 
