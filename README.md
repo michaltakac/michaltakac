@@ -15,7 +15,7 @@ In 2021, I successfully defended my PhD dissertation "Design and Implementation 
 
 In 2020, I was Visiting Student at [UC Berkeley](https://www.berkeley.edu/) at [Institute of Transportation Studies](https://its.berkeley.edu/).
 
-During my PhD, I tought JavaScript programming in two courses, one for undergrads and another for graduate students. Additionally to that, I also tought Java and a presentation skills course there.
+During my PhD, I taught JavaScript programming in two courses, one for undergrads and another for graduate students. Additionally to that, I also taught Java and a presentation skills course there.
 
 Before that...
 
