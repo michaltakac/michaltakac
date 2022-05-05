@@ -7,7 +7,11 @@ I'm a software engineer from Košice, Slovakia. I enjoy building stuff.
 
 ### What I'm up to currently
 
-In 2021 I've founded [DimensionLab](https://dimensionlab.org), where we're working on next-generation engineering and scientific software. Beside that I'm coding random crypto projects for fun!
+In 2021 I've founded [DimensionLab](https://dimensionlab.org), where we're working on next-generation engineering and scientific software. 
+
+I'm also a board member of [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/). We've established a physical presence in the heart of Košice city on Hlavná 36 street - come for a great coffee!
+
+Beside that I'm coding random crypto projects for fun!
 
 ### Past experiences
 
