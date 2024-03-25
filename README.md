@@ -9,7 +9,7 @@ I'm a software engineer from Košice, Slovakia. I enjoy building stuff.
 
 In 2021 I've founded [DimensionLab](https://dimensionlab.org), where we're working on next-generation engineering and scientific software. 
 
-I'm also a board member of [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/). We've established a physical presence in the heart of Košice city on Hlavná 36 street - come for a great coffee!
+I'm also a board member of [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) and [QuestSpace hackerspace](https://questspace.sk/?lang=en). We've established a physical presence in the heart of Košice city on Hlavná 36 street - come for a great coffee and hacking on some collaborative projects!
 
 Beside that I'm coding random crypto projects for fun!
 
@@ -24,12 +24,12 @@ During my PhD, I taught JavaScript programming in two courses, one for undergrad
 Before that...
 
 - I did WebVR at [Decentraland](https://decentraland.org/),
-- helped build apps for startups at [Sleighdogs](https://sld.gs/), 
-- founded skateboarding scoring platform [SkateRank](https://skaterank.com/), 
-- opened a small hackerspace called QuestSpace which is currently closed and will be transitioned into more scientific, upgraded version of hackerspace, 
-- co-founded a startup for house 3D printing Instant House Construction which we decided to abandon, 
+- helped build apps for startups at [Sleighdogs](https://sld.gs/),
+- experimented with using WebVR for mathematics with [MathworldVR](https://mathworldvr.com) ([won Falling Walls Lab Slovakia 2020](http://fwlslovakia.sk/2020/10/03/fwls-2020-winners/) with this project, profile also at [Falling Walls website](https://falling-walls.com/people/michal-takac/)),
+- founded skateboarding scoring platform [SkateRank](https://skaterank.com/),
+- co-founded a startup for house 3D printing Instant House Construction which we decided to abandon,
 - did a small gig at [Veterinary University of Košice](https://www.uvlf.sk/en) developing maintenance management software,
-- founded tracking software Runelytics for an online game Runescape, 
+- founded tracking software Runelytics for an online game Runescape,
 - done some Wordpress stuff for nearly 2 years at HP Publishing s.r.o. who published Boardmag and Dirtbiker magazines in Czech republic and Slovakia,
 - and beside that worked on various small projects.
 
