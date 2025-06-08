@@ -20,7 +20,9 @@ Beside that I'm sometimes coding random crypto projects for fun!
 
 ### Past experiences
 
-In 2021, I successfully defended my PhD dissertation "Design and Implementation of Modern Methods for Modeling and Control of Technological Objects and Processes" under supervision of [Prof. Ivo Petráš, DrSc.](http://people.tuke.sk/ivo.petras/) at [Faculty of Mining, Ecology, Process Control and Geotechnologies](https://www.tuke.sk/wps/portal/tuke/faculties/fberg/), [Technical University of Košice](https://www.tuke.sk/wps/portal/tuke).
+In 2021, I successfully defended my PhD dissertation "Design and Implementation of Modern Methods for Modeling and Control of Technological Objects and Processes" under supervision of [Prof. Ivo Petráš, DrSc.](http://people.tuke.sk/ivo.petras/) at [Faculty of Mining, Ecology, Process Control and Geotechnologies](https://www.tuke.sk/wps/portal/tuke/faculties/fberg/), [Technical University of Košice](https://www.tuke.sk/wps/portal/tuke). In my dissertation, I wrote a cross-platform GPU-optimized solver that uses Lattice-Boltzmann Method to achieve real-time interactive CFD simulation of simple vortex shedding, and I manage to implement an integrated visualization environment where user interacted with real-time simulation within virtual reality. Here's a short video:
+
+
 
 In 2020, I was Visiting Student at [UC Berkeley](https://www.berkeley.edu/) at [Institute of Transportation Studies](https://its.berkeley.edu/).
 
@@ -30,12 +32,12 @@ Before that...
 
 - I did WebVR at [Decentraland](https://decentraland.org/),
 - helped build apps for startups at [Sleighdogs](https://sld.gs/),
-- experimented with using WebVR for mathematics with [MathworldVR](https://mathworldvr.com) ([won Falling Walls Lab Slovakia 2020](http://fwlslovakia.sk/2020/10/03/fwls-2020-winners/) with this project, profile also at [Falling Walls website](https://falling-walls.com/people/michal-takac/)),
-- founded skateboarding scoring platform [SkateRank](https://skaterank.com/),
+- experimented with using WebVR for mathematics with [MathworldVR](https://mathworldvr.com) ([won Falling Walls Lab Slovakia 2020](http://fwlslovakia.sk/2020/10/03/fwls-2020-winners/) with this project, profile also at [Falling Walls website](https://falling-walls.com/people/michal-takac/)), and here's the [video of my presentation](https://www.youtube.com/watch?v=bGyR8zbJFuE) that includes short MathworldVR demo,
+- founded skateboarding scoring platform [SkateRank](https://skaterank.com/) (was active between 2018-2020, remnants still available on it's [FB profile](https://www.facebook.com/skaterank/)),
 - co-founded a startup for house 3D printing Instant House Construction which we decided to abandon,
 - did a small gig at [Veterinary University of Košice](https://www.uvlf.sk/en) developing maintenance management software,
 - founded tracking software Runelytics for an online game Runescape,
-- done some Wordpress stuff for nearly 2 years at HP Publishing s.r.o. who published Boardmag and Dirtbiker magazines in Czech republic and Slovakia,
+- done some Wordpress stuff for nearly 2 years at HP Publishing s.r.o. (worked closely with the founder, Radek Hruška) who published [Boardmag](https://www.bigmag.cz/?page=casopis&id=100&lang=en) and [Dirtbiker](https://www.bigmag.cz/?page=casopis&id=101&lang=en) magazines in Czech republic and Slovakia,
 - and beside that worked on various small projects.
 
 
