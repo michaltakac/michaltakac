@@ -2,16 +2,21 @@
 
 [![](https://komarev.com/ghpvc/?username=michaltakac&color=blue&label=Profile%20Views)](https://github.com/michaltakac/michaltakac)
 [![](https://img.shields.io/github/followers/michaltakac?label=GitHub%20Followers)](https://github.com/michaltakac)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/michaltakac)
+![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/michaltakac)
+
 
 I'm a software engineer from Košice, Slovakia. I enjoy building stuff.
 
 ### What I'm up to currently
 
-In 2021 I've founded [DimensionLab](https://dimensionlab.org), where we're working on next-generation engineering and scientific software. 
+In May 2025 I founded RandomFour LLC, a solo US company for my indie projects. At the same time, I'm also collaborating with various companies in [Slovakia](https://sudolabs.com/) and [Czechia](https://www.bottlecapai.com/) on AI & LLM stuff, helping to build products and optimize AI models.
 
-I'm also a board member of [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) and [QuestSpace hackerspace](https://questspace.sk/?lang=en). We've established a physical presence in the heart of Košice city on Hlavná 36 street - come for a great coffee and hacking on some collaborative projects!
+In 2021 I've founded [DimensionLab](https://dimensionlab.org), where we were working on next-generation engineering and scientific software and built Siml.ai Platform for PhysicsML. Unfortunately, we ran out of money and my health problems worsened, therefore we stopped working on it in April 2025 and sunsetted Siml.ai.
 
-Beside that I'm coding random crypto projects for fun!
+I'm also a board member of [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) and founder of [QuestSpace hackerspace](https://questspace.sk/?lang=en). We've established a physical presence in the heart of Košice city on Hlavná 36 street - come for a great coffee and hacking on some collaborative projects!
+
+Beside that I'm sometimes coding random crypto projects for fun!
 
 ### Past experiences
 
