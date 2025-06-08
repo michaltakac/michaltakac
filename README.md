@@ -50,8 +50,9 @@ Before that...
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Strange Loops and AI](https://michaltakac.com/blog/strange-loops-and-ai/)
-- [Developers See, Developers Do](https://michaltakac.com/blog/developers-see-developers-do/)
+- [Year 2024 in review](https://michaltakac.com/blog/2024-in-review/)
+- [Leap over discomfort](https://michaltakac.com/blog/leap-over-discomfort/)
+- [First week of being a dad](https://michaltakac.com/blog/first-week-being-a-dad/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
