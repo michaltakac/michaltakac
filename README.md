@@ -10,9 +10,11 @@ I'm a software engineer from Košice, Slovakia. I enjoy building stuff.
 
 ### What I'm up to currently
 
-In May 2025 I founded RandomFour LLC, a solo US company for my indie projects. At the same time, I'm also collaborating with various companies in [Slovakia](https://sudolabs.com/) and [Czechia](https://www.bottlecapai.com/) on AI & LLM stuff, helping to build products and optimize AI models.
+In July 2025, I joined [Sudolabs](https://sudolabs.com/), where we build software for startups and enterprises.
 
-In 2021 I've founded [DimensionLab](https://dimensionlab.org), where we were working on next-generation engineering and scientific software and built Siml.ai Platform for PhysicsML. Unfortunately, we ran out of money and my health problems worsened, therefore we stopped working on it in April 2025 and sunsetted Siml.ai.
+In May 2025, I founded RandomFour LLC, a US company for my solo indie projects, which I work on during nights and weekends.
+
+In 2021, I founded [DimensionLab](https://dimensionlab.org), where we worked on next-generation engineering and scientific software, building the Siml.ai Platform for PhysicsML. Unfortunately, we ran out of money, and my health problems worsened; therefore, we stopped working on it in April 2025 and sunsetted Siml.ai.
 
 I'm also a board member of [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) and founder of [QuestSpace hackerspace](https://questspace.sk/?lang=en). We've established a physical presence in the heart of Košice city on Hlavná 36 street - come for a great coffee and hacking on some collaborative projects!
 
