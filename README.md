@@ -10,11 +10,12 @@ I'm a software engineer from Košice, Slovakia. I enjoy building stuff.
 
 ### What I'm up to currently
 
-In July 2025, I joined [Sudolabs](https://sudolabs.com/), where we build software for startups and enterprises.
+Between July 2025 and June 2026, I worked at [Sudolabs](https://sudolabs.com/), where we built AI coaching platform for enterprise customer with 40,000+ agents. 
 
-In May 2025, I founded [RandomFour LLC](https://www.randomfour.co/), a US company for my solo indie projects, which I work on during nights and weekends.
+In May 2025, I founded [RandomFour LLC](https://www.randomfour.co/), a US company for my solo indie projects, which I work on during nights and weekends. 
+One of the main projects there is [Graspable.dev](https://graspable.dev/)
 
-In 2021, I founded [DimensionLab](https://dimensionlab.org), where we worked on next-generation engineering and scientific software, building the Siml.ai Platform for PhysicsML. Unfortunately, we ran out of money, and my health problems worsened; therefore, we stopped working on it in April 2025 and sunsetted Siml.ai.
+In 2021, I founded [DimensionLab](https://dimensionlab.org), where we work on next-generation engineering and scientific software, building the Siml.ai Platform for PhysicsML. Unfortunately, we ran out of money, and my health problems worsened; therefore, we stopped working on it in April 2025 and sunsetted Siml.ai. We are working on various other projects, one of which is DimensionLab CrAInial, a platform for AI-driven cranial implant generation and neurosurgery patients administration rolled into one - providing end-to-end support from patient's CT scan through implant generation and patient's case management & reporting.
 
 I'm also a board member of [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) and founder of [QuestSpace hackerspace](https://questspace.sk/?lang=en). We've established a physical presence in the heart of Košice city on Hlavná 36 street - come for a great coffee and hacking on some collaborative projects!
 
@@ -54,9 +55,8 @@ Before that...
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Year 2024 in review](https://michaltakac.com/blog/2024-in-review/)
-- [Leap over discomfort](https://michaltakac.com/blog/leap-over-discomfort/)
-- [First week of being a dad](https://michaltakac.com/blog/first-week-being-a-dad/)
+- [Check my website](https://michaltakac.com/)
+- [Subscribe to my RSS feed]([https://michaltakac.com/blog/leap-over-discomfort/](https://michaltakac.com/index.xml))
 <!-- BLOG-POST-LIST:END -->
 
 <!--
