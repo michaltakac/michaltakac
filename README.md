@@ -15,7 +15,9 @@ Between July 2025 and June 2026, I worked at [Sudolabs](https://sudolabs.com/), 
 In May 2025, I founded [RandomFour LLC](https://www.randomfour.co/), a US company for my solo indie projects, which I work on during nights and weekends. 
 One of the main projects there is [Graspable.dev](https://graspable.dev/)
 
-In 2021, I founded [DimensionLab](https://dimensionlab.org), where we work on next-generation engineering and scientific software, building the Siml.ai Platform for PhysicsML. Unfortunately, we ran out of money, and my health problems worsened; therefore, we stopped working on it in April 2025 and sunsetted Siml.ai. We are working on various other projects, one of which is DimensionLab CrAInial, a platform for AI-driven cranial implant generation and neurosurgery patients administration rolled into one - providing end-to-end support from patient's CT scan through implant generation and patient's case management & reporting.
+In 2021, I founded [DimensionLab](https://dimensionlab.org), where we work on next-generation engineering and scientific software, building the Siml.ai Platform for PhysicsML. Unfortunately, we ran out of money, and my health problems worsened; therefore, we stopped working on it in April 2025 and sunsetted Siml.ai.
+
+I'm also building CrAInial under [Parallel Anatomy](https://github.com/ParallelAnatomy), a separate company and GitHub organization. CrAInial is a platform for AI-driven cranial implant generation and neurosurgery patients administration rolled into one - providing end-to-end support from patient's CT scan through implant generation and patient's case management & reporting.
 
 I'm also a board member of [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) and founder of [QuestSpace hackerspace](https://questspace.sk/?lang=en). We've established a physical presence in the heart of Košice city on Hlavná 36 street - come for a great coffee and hacking on some collaborative projects!
 
